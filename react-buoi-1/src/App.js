@@ -1,8 +1,9 @@
+import HeaderComponent from "./Components/HeaderComponent";
 
 function App() {
   return (
     <div className="App">
-      
+      <HeaderComponent />
     </div>
   );
 }
